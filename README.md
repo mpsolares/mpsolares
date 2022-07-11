@@ -3,6 +3,7 @@
 I'm Mariana, a Front-end Developer with a broad background as a senior graphic design, UI designer, and recently as an IT support analyst.
 
 Technologies ⚡
+
 Frontend
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -36,7 +37,8 @@ How to reach me 📩
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/MPSOLARES?label=follow&style=social)](https://github.com/mpsolares)
 
 More About Me 👩
-Pronouns: She / Her / Hers
+
+Pronouns: She / Her / Hers<br>
 Hobbies: Swimming, cycling & movies
 
 I'd like to hear about you, tell me who you are and, if you are up to it, help me improve my coding skills. 
