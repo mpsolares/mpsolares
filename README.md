@@ -1,7 +1,5 @@
 ### Hi there 👋
-2
-​
-3
+
 I'm Mariana, a Front-end Developer with a broad background as a senior graphic design, UI designer, and recently as an IT support analyst.
 
 Technologies ⚡
@@ -33,9 +31,9 @@ To improve myself and others in terms of digital transformation, helping people 
 
 How to reach me 📩
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:marianasolares@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-MarianaSolares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/marianasolares/?locale=en_US)
+[![Gmail Badge](https://img.shields.io/badge/-marianasolares@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianasolares@gmail.com)](mailto:marianasolares@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/MPSOLARES?label=follow&style=social)](https://github.com/mpsolares)
 
 More About Me 👩
 Pronouns: She / Her / Hers
