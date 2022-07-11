@@ -25,9 +25,11 @@ Ferramentas de Desenvolvimento
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 What I'm up to 🌱
+
 I’m still improving my coding skills and my knowledge of the technologies mentioned above. I'm finishing my portfolio and preparing some additional personal projects using React.
 
 What's my aim 🎯
+
 To improve myself and others in terms of digital transformation, helping people and businesses in their process.
 
 How to reach me 📩
