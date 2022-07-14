@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 I'm Mariana, a Front-end Developer with a broad background as a senior graphic design, UI designer, and recently as an IT support analyst.
 
 Technologies ⚡
