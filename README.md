@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mpsolares.visitor-badge)
 
 I'm Mariana, a Front-end Developer with a broad background as a senior graphic design, UI designer, and recently as an IT support analyst.
